@@ -1,3 +1,3 @@
-#Lasagna recipe
-##Ingredients
-*pasta
+# Lasagna recipe
+## Ingredients
+* pasta
