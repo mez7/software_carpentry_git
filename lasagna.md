@@ -9,3 +9,4 @@
 ## Instructions
 * heat oil in pan
 * add garlic
+* add tomato sauce
